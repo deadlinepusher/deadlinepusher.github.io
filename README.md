@@ -10,7 +10,7 @@ Camera Effects
 
 This is my camera effects project
 
-![jacob hat](![jacob hat]?raw=true "Optional Title")
+![jacob hat](?raw=true "Optional Title")
 
 
 ***
