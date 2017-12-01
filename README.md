@@ -10,7 +10,7 @@ Camera Effects
 
 This is my camera effects project
 
-![jacob hat](jacob hat.PNG?raw=true "Optional Title")
+![jacob hat](jacob_hat.PNG?raw=true "Optional Title")
 
 
 ***
