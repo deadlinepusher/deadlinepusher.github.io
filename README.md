@@ -23,4 +23,4 @@ Storyscape
 
 This Is My Story Scape Project
 
-<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/deadlinepusher/ancient-copy" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/deadlinepusher/ancient-copy" ></script>
